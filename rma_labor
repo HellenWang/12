@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T12:52:31.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.5" etag="SfqkekSmDbBSw7JUpsvK" type="github"><diagram id="HPdfpaBzIKFErJAhr47-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T04:16:40.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="9eADPs2foxJQe_viDxMR" version="14.4.6" type="github">
+  <diagram id="HPdfpaBzIKFErJAhr47-" name="第 1 页">
+    <mxGraphModel dx="1298" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/minus-128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-3" value="2021-03-12 10:10:21 -- 2021-03-12 10:34:21" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="125" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-4" value="oob_reboot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="355" y="125" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-5" value="2021-03-12 10:10:21 --&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="175" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-6" value="disk_rma" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="175" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fontColor=#575757;fillColor=#CCCCCC;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="640" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-9" value="2021-03-12 10:10:21 action &lt;b style=&quot;font-size: 12px;&quot;&gt;disk_rma&lt;/b&gt; triggered by &lt;b style=&quot;font-size: 12px;&quot;&gt;System, &lt;/b&gt;set status &lt;b style=&quot;font-size: 12px;&quot;&gt;pending&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#525252;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-minus-empty-128.png;fillColor=#CCCCCC;fontSize=14;fontColor=#575757;" vertex="1" parent="1">
+          <mxGeometry x="70" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-11" value="2021-03-12 11:10:21 action &lt;b style=&quot;font-size: 12px&quot;&gt;disk_rma&lt;/b&gt;&amp;nbsp;is approved&lt;b style=&quot;font-size: 12px&quot;&gt;, &lt;/b&gt;set status&lt;b&gt;&amp;nbsp;approved&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#525252;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-minus-empty-128.png;fillColor=#CCCCCC;fontSize=14;fontColor=#575757;" vertex="1" parent="1">
+          <mxGeometry x="70" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-13" value="More" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-14" value="More" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-15" value="2021-03-12 11:10:21 action &lt;b style=&quot;font-size: 12px&quot;&gt;disk_rma&lt;/b&gt;&amp;nbsp;start handle&lt;b style=&quot;font-size: 12px&quot;&gt;, &lt;/b&gt;set status&lt;b&gt;&amp;nbsp;doing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#525252;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-minus-empty-128.png;fillColor=#CCCCCC;fontSize=14;fontColor=#575757;" vertex="1" parent="1">
+          <mxGeometry x="70" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-17" value="More" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-18" value="&amp;nbsp; &amp;nbsp;2021-03-12 11:10:21 action &lt;b style=&quot;font-size: 12px&quot;&gt;disk_rma&lt;/b&gt;&amp;nbsp;description chaged&lt;b style=&quot;font-size: 12px&quot;&gt;,&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#525252;" vertex="1" parent="1">
+          <mxGeometry x="95" y="300" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-minus-empty-128.png;fillColor=#CCCCCC;fontSize=14;fontColor=#575757;" vertex="1" parent="1">
+          <mxGeometry x="70" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VETi8EtMpKteXA_F7Bnd-20" value="More" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
