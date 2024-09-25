@@ -240,6 +240,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zvxovWymFCu1q2faMxAx-2" value="Clear" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;fontColor=#969696;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470.5" y="267" width="65" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="zvxovWymFCu1q2faMxAx-3" value="7" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;strokeColor=#FF8000;fillColor=#525252;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="442" y="273" width="28.5" height="28.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
